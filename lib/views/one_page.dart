@@ -38,7 +38,7 @@ class _OnePageState extends State<OnePage> {
                 disable: false,
                 titleSize: 18,
                 onPressed: () => _controller.callAPI(),
-                title: 'Custom button'),
+                title: 'Get API'),
           ],
         ),
       )),
